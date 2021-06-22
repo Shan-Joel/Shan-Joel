@@ -51,59 +51,18 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-
-<span style="text-align: center;" width="25%" ><a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
+<!-- <span style="text-align: center;" width="25%" ><a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
 
 <span width="25%"><a href="mailto:shan.joeld@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red"/>Email</a></span>
 
 <span width="25%"><a href="https://www.facebook.com/people/Joel-Dharmagunarathne/100009295764137/"><img align-items="center" src="https://img.shields.io/badge/-Facebook-blue"/> Facebook</a> </span>
 
-<span width="25%"><a href="https://www.behance.net/shan-joel"><img src="https://img.shields.io/badge/-Behance-red"/>Behance</a></span>
+<span width="25%"><a href="https://www.behance.net/shan-joel"><img src="https://img.shields.io/badge/-Behance-red"/>Behance</a></span> -->
+<p align="left">
+<a href="https://linkedin.com/in/in/shan-joel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shan-joel/" height="30" width="40" /></a>
+<a href="https://fb.com/people/joel-dharmagunarathne/100009295764137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="people/joel-dharmagunarathne/100009295764137/" height="30" width="40" /></a>
+<a href="https://www.behance.net/shan-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shan-joel" height="30" width="40" /></a>
+</p>
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
-[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/shanjoel4
-[2]: https://www.facebook.com/people/Joel-Dharmagunarathne/100009295764137/
-[3]: https://plus.google.com/
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/
-[6]: http://www.github.com/Shan-Joel
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
