@@ -1,4 +1,4 @@
-<img align="center" alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/>
+<img alt="Night Coding" src="./developer_med-1.gif" width='500px' align="center"/>
 <h2 align="center" >Hey there! I'm Shan Joel</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Shan Joel -->
@@ -53,11 +53,11 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/"/>Linkein</a>
 
-<a href="mailto:shan.joeld@gmail.com"><img src="https://img.shields.io/badge/style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:shan.joeld@gmail.com"><img src="https://img.shields.io/badge/"/>Email</a>
 
-<a href="https://www.facebook.com/people/Joel-Dharmagunarathne/100009295764137/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/people/Joel-Dharmagunarathne/100009295764137/"><img src="https://img.shields.io/badge/"/>Favebook</a>
 
-<a href="https://www.behance.net/shan-joel"><img src="https://img.shields.io/badge/style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.behance.net/shan-joel"><img src="https://img.shields.io/badge/"/>Behance</a>
 </p>
