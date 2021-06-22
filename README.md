@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Software Engineering at Sri Lanka Institute of Information Technology.\
 🌱 &nbsp;I'm on track for learning more about Web Development and UI/UX Design.\
 ✍️ &nbsp;In my free time, I play some video games.\
