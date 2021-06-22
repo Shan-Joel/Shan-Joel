@@ -97,12 +97,12 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
+[1]: https://twitter.com/shanjoel4
+[2]: https://www.facebook.com/people/Joel-Dharmagunarathne/100009295764137/
+[3]: https://plus.google.com/
 [4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[5]: http://dribbble.com/
+[6]: http://www.github.com/Shan-Joel
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
