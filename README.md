@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**Shan-Joel/Shan-Joel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I am Shan Joel👋
 
 Here are some ideas to get you started:
 
