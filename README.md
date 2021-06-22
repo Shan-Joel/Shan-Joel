@@ -52,7 +52,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 
-<span width="25%"><a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
+<span style="text-align: center;" width="25%" ><a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
 
 <span width="25%"><a href="mailto:shan.joeld@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red"/>Email</a></span>
 
