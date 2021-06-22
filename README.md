@@ -51,13 +51,12 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
 
-<a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/"/>Linkein</a>
+<span width="25%"><a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
 
-<a href="mailto:shan.joeld@gmail.com"><img src="https://img.shields.io/badge/"/>Email</a>
+<span width="25%"><a href="mailto:shan.joeld@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red"/>Email</a></span>
 
-<a href="https://www.facebook.com/people/Joel-Dharmagunarathne/100009295764137/"><img src="https://img.shields.io/badge/"/>Favebook</a>
+<span width="25%"><a href="https://www.facebook.com/people/Joel-Dharmagunarathne/100009295764137/"><img align-items="center" src="https://img.shields.io/badge/-Facebook-blue"/> Facebook</a> </span>
 
-<a href="https://www.behance.net/shan-joel"><img src="https://img.shields.io/badge/"/>Behance</a>
-</p>
+<span width="25%"><a href="https://www.behance.net/shan-joel"><img src="https://img.shields.io/badge/-Behance-red"/>Behance</a></span>
+
