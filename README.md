@@ -1,12 +1,12 @@
 <!-- <img align="center" alt="Night Coding" src="./developer_med-1.gif" width='80%' height="370px" />
  -->
- <h2 align="center" >Hey There! I'm Shan Joel</h2>
+ <h1 align="center" >Hey There! I'm Shan Joel</h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Shan Joel -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+ 💡   &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Software Engineering at Sri Lanka Institute of Information Technology.\
 🌱 &nbsp;I'm on track for learning more about Web Development and UI/UX Design.\
 ✍️ &nbsp;In my free time, I play some video games.\
@@ -45,8 +45,9 @@
 
 <p align="center">
 <a href="https://github.com/Shan-Joel">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shan-Joelshow_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shan-Joel&layout=compact&langs_count=8&theme=algolia"/>
+   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Shan-Joel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shan-Joelshow_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shan-Joel&layout=compact&langs_count=8&theme=algolia"/> 
 </a>
 </p>
 
