@@ -1,5 +1,6 @@
 <!-- <img align="center" alt="Night Coding" src="./developer_med-1.gif" width='80%' height="370px" />
-<h2 align="center" >Hey there! I'm Shan Joel</h2> -->
+ -->
+ <h2 align="center" >Hey There! I'm Shan Joel</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Shan Joel -->
 
