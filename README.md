@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Full Stack Development and UI/UX Design.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can drop me an email at shan.joeld@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé] ------- for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my portfolio <a href="https://shanjoel.com/">shanjoel.com</a> for more details about me. I'm open to feedback and suggestions!
 
 <img style="text-align: center;" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
