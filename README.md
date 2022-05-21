@@ -13,9 +13,9 @@
 ✉️ &nbsp;You can drop me an email at shan.joeld@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my portfolio <a href="https://shanjoel.com/">shanjoel.com</a> for more details about me. I'm open to feedback and suggestions!
 
-
+<p style="max-width: 800px; margin: 16px auto; text-align: center;">
 <img style="max-width: 800px !important; margin: auto!important; text-align: center!important;" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
-
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
