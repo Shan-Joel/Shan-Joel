@@ -13,7 +13,10 @@
 ✉️ &nbsp;You can drop me an email at shan.joeld@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my portfolio <a href="https://shanjoel.com/">shanjoel.com</a> for more details about me. I'm open to feedback and suggestions!
 
+<div style="display: flex; justify-content: center;">
 <img style="text-align: center;" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img style="text-align: center;" alt="GitHub Logo Gif" src="https://hackernoon.com/hn-images/1*zm5NLjdhGd3VVTA2u-xEPg.gif" align="right"/>
+</div>
 
 ### 🛠 &nbsp;Tech Stack
 
