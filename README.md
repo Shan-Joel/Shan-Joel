@@ -21,10 +21,11 @@
 </p>
 
 ---
-
+<p align="center">
 <a href="https://github.com/Shan-Joel/github-profile-views-counter">
     <img src="https://camo.githubusercontent.com/9d3304a0b98fa081a6c04b01126ffcecd54b4c9f5be0d9cb0d0a5f6db5c436b8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7468757368616c2d7368616d696e6461" data-canonical-src="https://komarev.com/ghpvc/?username=Shan-Joel" style="max-width: 100%;">
 </a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
