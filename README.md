@@ -13,10 +13,14 @@
 ✉️ &nbsp;You can drop me an email at shan.joeld@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my portfolio <a href="https://shanjoel.com/">shanjoel.com</a> for more details about me. I'm open to feedback and suggestions!
 
-<div style="display: flex; justify-content: space-between;">
-<img style="max-width: 800px !important; margin: auto!important; text-align: center!important;" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+---
+
+<p align="center">
+<img height="230em" width="45%" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 <img style="width: 300px; height: 185px;"  alt="Night Coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9f56d629403431.56bf41038c8b0.gif"/>
-</div>
+</p>
+
+---
 
 <a href="https://github.com/Shan-Joel/github-profile-views-counter">
     <img src="https://camo.githubusercontent.com/9d3304a0b98fa081a6c04b01126ffcecd54b4c9f5be0d9cb0d0a5f6db5c436b8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7468757368616c2d7368616d696e6461" data-canonical-src="https://komarev.com/ghpvc/?username=Shan-Joel" style="max-width: 100%;">
