@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
  💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software Engineering at Sri Lanka Institute of Information Technology.\
+🎓 &nbsp;I'm currently studying Information Technology at Sri Lanka Institute of Information Technology.\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development and UI/UX Design.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can drop me an email at shan.joeld@gmail.com I'll try to respond as soon as I can.\
