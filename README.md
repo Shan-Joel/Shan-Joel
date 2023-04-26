@@ -9,7 +9,7 @@
  💡 &nbsp;I am interested in exploring new technologies and developing software solutions and quick hacks\
 🎓 &nbsp;Currently, I am pursuing a degree in Information Technology at Sri Lanka Institute of Information Technology\
 🌱 &nbsp;My focus is on learning Full Stack Development, AI, and Web 3.0\
-💬 &nbsp;If you need consulting or volunteering services or simply want to engage in interesting discussions, please don't hesitate to contact me\
+💬 &nbsp;If you need any consulting or simply want to engage in interesting discussions, please don't hesitate to contact me\
 ✉️ &nbsp;You can reach me via email at shan.joeld@gmail.com, and I will respond\
 📄 &nbsp;For additional information about me, please visit my portfolio (https://shanjoel.com/) I welcome criticism and ideas btw :\
 
