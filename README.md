@@ -6,12 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Information Technology at Sri Lanka Institute of Information Technology.\
-🌱 &nbsp;I'm on track for learning more about Full Stack Development and UI/UX Design.\
-💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can drop me an email at shan.joeld@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my portfolio <a href="https://shanjoel.com/">shanjoel.com</a> for more details about me. I'm open to feedback and suggestions!
+ 💡 &nbsp;I am interested in exploring new technologies and developing software solutions and quick hacks\
+🎓 &nbsp;Currently, I am pursuing a degree in Information Technology at Sri Lanka Institute of Information Technology\
+🌱 &nbsp;My focus is on learning Full Stack Development, AI, and Web 3.0\
+💬 &nbsp;If you need consulting or volunteering services or simply want to engage in interesting discussions, please don't hesitate to contact me\
+✉️ &nbsp;You can reach me via email at shan.joeld@gmail.com, and I will respond\
+📄 &nbsp;For additional information about me, please visit my portfolio (https://shanjoel.com/) I welcome criticism and ideas btw :\
 
 ---
 
