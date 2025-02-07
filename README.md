@@ -6,12 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 Passionate about exploring new technologies, building software solutions, and creating quick hacks.
-🎓 Recently graduated with a degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT).
-🌱 Focused on learning Front-End Development, AI, and Web 3.0 technologies.
-💬 Always up for interesting discussions and open to consulting opportunities. Feel free to reach out!
-✉️ You can contact me via email at shan.joeld@gmail.com.
-📄 Check out my portfolio at shanjoel.com for more details. I welcome any feedback or ideas! 😊
+💡 Passionate about exploring new technologies, building software solutions, and creating quick hacks. <br/>
+🎓 Recently graduated with a degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT). <br/>
+🌱 Focused on learning Front-End Development, AI, and Web 3.0 technologies. <br/>
+💬 Always up for interesting discussions and open to consulting opportunities. Feel free to reach out! <br/>
+✉️ You can contact me via email at shan.joeld@gmail.com. <br/>
+📄 Check out my portfolio at https://shanjoel.com for more details. I welcome any feedback or ideas! 😊 <br/>
 
 ---
 
@@ -21,11 +21,6 @@
 </p>
 
 ---
-<p align="center">
-<a href="https://github.com/Shan-Joel/github-profile-views-counter">
-    <img src="https://camo.githubusercontent.com/9d3304a0b98fa081a6c04b01126ffcecd54b4c9f5be0d9cb0d0a5f6db5c436b8/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7468757368616c2d7368616d696e6461" data-canonical-src="https://komarev.com/ghpvc/?username=Shan-Joel" style="max-width: 100%;">
-</a>
-</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -48,36 +43,19 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 <br>
-<br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Shan-Joel">
    <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Shan-Joel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shan-Joelshow_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="185em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shan-Joel&layout=compact&langs_count=8&theme=algolia"/> 
+   <img height="185em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shan-Joel&layout=compact&langs_count=8&theme=algolia"/> 
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-<!-- <span style="text-align: center;" width="25%" ><a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
-
-<span width="25%"><a href="mailto:shan.joeld@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red"/>Email</a></span>
-
-<span width="25%"><a href="https://www.facebook.com/people/Joel-Dharmagunarathne/100009295764137/"><img align-items="center" src="https://img.shields.io/badge/-Facebook-blue"/> Facebook</a> </span>
-
-<span width="25%"><a href="https://www.behance.net/shan-joel"><img src="https://img.shields.io/badge/-Behance-red"/>Behance</a></span> -->
 <p align="left">
-<a href="https://www.linkedin.com/in/shan-joel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shan-joel/" height="30" width="40" /></a>
-<a href="https://codepen.io/shan-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shan-joel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15304799/shan-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15304799/shan-joel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/it20210892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/it20210892" height="30" width="40" /></a>
-<a href="https://leetcode.com/shanjoel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shanjoel/" height="30" width="40" /></a>
-<a href="https://www.behance.net/shan-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shan-joel" height="30" width="40" /></a>
-<a href="https://medium.com/@shan.joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shan.joel" height="30" width="40" /></a>
-<a href="https://twitter.com/shanjoel4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shanjoel4" height="30" width="40" /></a>
-<a href="https://fb.com/people/joel-dharmagunarathne/100009295764137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="people/joel-dharmagunarathne/100009295764137/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/shan-joeld/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shan-joel/" height="30" width="40" /></a>
 </p>
 
 
