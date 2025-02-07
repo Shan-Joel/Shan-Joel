@@ -1,17 +1,17 @@
 <!-- <img align="center" alt="Night Coding" src="./developer_med-1.gif" width='80%' height="370px" />
  -->
- <h1 align="center" >Hey There! I'm Shan Joel</h1>
+ <h1 align="center" >Hi there, I'm Joel! 👋</h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Shan Joel -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
- 💡 &nbsp;I am interested in exploring new technologies and developing software solutions and quick hacks\
-🎓 &nbsp;Currently, I am pursuing a degree in Information Technology at Sri Lanka Institute of Information Technology\
-🌱 &nbsp;My focus is on learning Full Stack Development, AI, and Web 3.0\
-💬 &nbsp;If you need any consulting or simply want to engage in interesting discussions, please don't hesitate to contact me\
-✉️ &nbsp;You can reach me via email at shan.joeld@gmail.com, and I will respond\
-📄 &nbsp;For additional information about me, please visit my portfolio at https://shanjoel.com, and I welcome criticism and ideas btw :\
+💡 Passionate about exploring new technologies, building software solutions, and creating quick hacks.
+🎓 Recently graduated with a degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT).
+🌱 Focused on learning Front-End Development, AI, and Web 3.0 technologies.
+💬 Always up for interesting discussions and open to consulting opportunities. Feel free to reach out!
+✉️ You can contact me via email at shan.joeld@gmail.com.
+📄 Check out my portfolio at shanjoel.com for more details. I welcome any feedback or ideas! 😊
 
 ---
 
