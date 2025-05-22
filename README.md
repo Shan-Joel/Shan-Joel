@@ -30,7 +30,7 @@
 <p align="center">
 <a href="https://github.com/Shan-Joel">
    <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Shan-Joel&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-   <img height="185em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shan-Joel&layout=compact&langs_count=8&theme=algolia"/> 
+<!--    <img height="185em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shan-Joel&layout=compact&langs_count=8&theme=algolia"/>  -->
 </a>
 </p>
 
