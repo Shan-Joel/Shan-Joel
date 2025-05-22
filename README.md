@@ -2,7 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 I'm a Frontend Engineer who enjoys turning complex problems into simple, elegant solutions using modern web technologies.
+💡 I'm a Frontend Engineer who enjoys turning complex problems into simple, elegant solutions using modern web technologies. <br/>
+🎯 I focus on building scalable, accessible, and responsive user interfaces that deliver a seamless user experience. <br/>
+🚀 Passionate about performance optimization, code maintainability, and staying up-to-date with the latest in frontend ecosystems.
 
 ---
 
